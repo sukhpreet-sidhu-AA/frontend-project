@@ -1,0 +1,25 @@
+form{
+    display: flex;
+    justify-content: center
+}
+
+
+label{
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 0rem;
+
+}
+
+button{
+    width: 20rem;
+}
+
+.form-box{
+    display: flex;
+    flex-direction: column;
+}
+
+.error{
+    color: red;
+}
